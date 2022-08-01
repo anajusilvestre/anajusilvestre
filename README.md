@@ -1,8 +1,8 @@
 - 👋 Oi, sou  @anajusilvestre
 - 👀 Estou enteressada em aprender tudo
-- 🌱 Atualmente estou aprendendo gitch rub
-- 💞️ Colaborando com o meu aprendizado
-- 📫 Programando
+- 🌱 Atualmente estou aprendendo github
+- 💞️ Colaborando com o meu aprendizado em progamação.
+- 📫 Programando Atualmente Html5 Com Alura
 
 <!---
 anajusilvestre/anajusilvestre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
